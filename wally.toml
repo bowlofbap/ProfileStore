@@ -1,8 +1,8 @@
 [package]
-name = "lm-loleris/profilestore"
-description = "Periodic DataStore saving solution with session locking"
-version = "1.0.3"
+name = "bowlofbap/profilestore"
+version = "0.1.0"
+license = "Apache2"
 registry = "https://github.com/UpliftGames/wally-index"
-realm = "server"
+realm = "shared"
 
 [dependencies]
